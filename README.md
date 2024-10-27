@@ -25,7 +25,7 @@
 
 ## Communication
 
-If you have a question/query/suggestion, feel free to send an e-mail to [ndiranguwaweru@gmail.com](mailto:ndiranguwaweru@gmail.com).
+If you have a question/query/suggestion, feel free to send an e-mail to [ronocollins2000@gmail.com](mailto:ronocollins2000@gmail.com).
 
 ## License
 
